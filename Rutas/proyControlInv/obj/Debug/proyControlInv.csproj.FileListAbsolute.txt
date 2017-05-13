@@ -1,0 +1,75 @@
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\ED\proyControlInv\proyControlInv\bin\Debug\proyControlInv.exe.config
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\ED\proyControlInv\proyControlInv\bin\Debug\proyControlInv.exe
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\ED\proyControlInv\proyControlInv\bin\Debug\proyControlInv.pdb
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\ED\proyControlInv\proyControlInv\obj\Debug\proyControlInv.csprojResolveAssemblyReference.cache
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\ED\proyControlInv\proyControlInv\obj\Debug\proyControlInv.Form1.resources
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\ED\proyControlInv\proyControlInv\obj\Debug\proyControlInv.Properties.Resources.resources
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\ED\proyControlInv\proyControlInv\obj\Debug\proyControlInv.csproj.GenerateResource.Cache
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\ED\proyControlInv\proyControlInv\obj\Debug\proyControlInv.exe
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\ED\proyControlInv\proyControlInv\obj\Debug\proyControlInv.pdb
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\ED\proyControlInv(ListaEnlazada)\proyControlInv\bin\Debug\proyControlInv.exe.config
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\ED\proyControlInv(ListaEnlazada)\proyControlInv\obj\Debug\proyControlInv.exe
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\ED\proyControlInv(ListaEnlazada)\proyControlInv\obj\Debug\proyControlInv.pdb
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\ED\proyControlInv(ListaEnlazada)\proyControlInv\bin\Debug\proyControlInv.exe
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\ED\proyControlInv(ListaEnlazada)\proyControlInv\bin\Debug\proyControlInv.pdb
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\ED\proyControlInv(ListaEnlazada)\proyControlInv\obj\Debug\proyControlInv.csprojResolveAssemblyReference.cache
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\ED\proyControlInv(ListaEnlazada)\proyControlInv\obj\Debug\proyControlInv.Form1.resources
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\ED\proyControlInv(ListaEnlazada)\proyControlInv\obj\Debug\proyControlInv.Properties.Resources.resources
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\ED\proyControlInv(ListaEnlazada)\proyControlInv\obj\Debug\proyControlInv.csproj.GenerateResource.Cache
+C:\Users\20127382\Desktop\programas\Control-Inventario-Lista-Enlazada-master\proyControlInv(ListaEnlazada)\proyControlInv\bin\Debug\proyControlInv.exe.config
+C:\Users\20127382\Desktop\programas\Control-Inventario-Lista-Enlazada-master\proyControlInv(ListaEnlazada)\proyControlInv\obj\Debug\proyControlInv.exe
+C:\Users\20127382\Desktop\programas\Control-Inventario-Lista-Enlazada-master\proyControlInv(ListaEnlazada)\proyControlInv\obj\Debug\proyControlInv.pdb
+C:\Users\20127382\Desktop\programas\Control-Inventario-Lista-Enlazada-master\proyControlInv(ListaEnlazada)\proyControlInv\obj\Debug\proyControlInv.csprojResolveAssemblyReference.cache
+C:\Users\20127382\Desktop\programas\Control-Inventario-Lista-Enlazada-master\proyControlInv(ListaEnlazada)\proyControlInv\obj\Debug\proyControlInv.Form1.resources
+C:\Users\20127382\Desktop\programas\Control-Inventario-Lista-Enlazada-master\proyControlInv(ListaEnlazada)\proyControlInv\obj\Debug\proyControlInv.Properties.Resources.resources
+C:\Users\20127382\Desktop\programas\Control-Inventario-Lista-Enlazada-master\proyControlInv(ListaEnlazada)\proyControlInv\obj\Debug\proyControlInv.csproj.GenerateResource.Cache
+C:\Users\20127382\Desktop\programas\Control-Inventario-Lista-Enlazada-master\proyControlInv(ListaEnlazada)\proyControlInv\bin\Debug\proyControlInv.exe
+C:\Users\20127382\Desktop\programas\Control-Inventario-Lista-Enlazada-master\proyControlInv(ListaEnlazada)\proyControlInv\bin\Debug\proyControlInv.pdb
+C:\Users\20127382\Desktop\programas\Control-Inventario-Lista-Doble\proyControlInv(ListaEnlazada)\proyControlInv\bin\Debug\proyControlInv.exe.config
+C:\Users\20127382\Desktop\programas\Control-Inventario-Lista-Doble\proyControlInv(ListaEnlazada)\proyControlInv\obj\Debug\proyControlInv.exe
+C:\Users\20127382\Desktop\programas\Control-Inventario-Lista-Doble\proyControlInv(ListaEnlazada)\proyControlInv\obj\Debug\proyControlInv.pdb
+C:\Users\20127382\Desktop\programas\Control-Inventario-Lista-Doble\proyControlInv(ListaEnlazada)\proyControlInv\bin\Debug\proyControlInv.exe
+C:\Users\20127382\Desktop\programas\Control-Inventario-Lista-Doble\proyControlInv(ListaEnlazada)\proyControlInv\bin\Debug\proyControlInv.pdb
+C:\Users\20127382\Desktop\programas\Control-Inventario-Lista-Doble\proyControlInv(ListaEnlazada)\proyControlInv\obj\Debug\proyControlInv.csprojResolveAssemblyReference.cache
+C:\Users\20127382\Desktop\programas\Control-Inventario-Lista-Doble\proyControlInv(ListaEnlazada)\proyControlInv\obj\Debug\proyControlInv.Form1.resources
+C:\Users\20127382\Desktop\programas\Control-Inventario-Lista-Doble\proyControlInv(ListaEnlazada)\proyControlInv\obj\Debug\proyControlInv.Properties.Resources.resources
+C:\Users\20127382\Desktop\programas\Control-Inventario-Lista-Doble\proyControlInv(ListaEnlazada)\proyControlInv\obj\Debug\proyControlInv.csproj.GenerateResource.Cache
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\ED\Control-Inventario-Lista-Doble\proyControlInv(ListaEnlazada)\proyControlInv\bin\Debug\proyControlInv.exe.config
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\ED\Control-Inventario-Lista-Doble\proyControlInv(ListaEnlazada)\proyControlInv\obj\Debug\proyControlInv.exe
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\ED\Control-Inventario-Lista-Doble\proyControlInv(ListaEnlazada)\proyControlInv\obj\Debug\proyControlInv.pdb
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\ED\Control-Inventario-Lista-Doble\proyControlInv(ListaEnlazada)\proyControlInv\bin\Debug\proyControlInv.exe
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\ED\Control-Inventario-Lista-Doble\proyControlInv(ListaEnlazada)\proyControlInv\bin\Debug\proyControlInv.pdb
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\ED\Control-Inventario-Lista-Doble\proyControlInv(ListaEnlazada)\proyControlInv\obj\Debug\proyControlInv.csprojResolveAssemblyReference.cache
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\ED\Control-Inventario-Lista-Doble\proyControlInv(ListaEnlazada)\proyControlInv\obj\Debug\proyControlInv.Form1.resources
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\ED\Control-Inventario-Lista-Doble\proyControlInv(ListaEnlazada)\proyControlInv\obj\Debug\proyControlInv.Properties.Resources.resources
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\ED\Control-Inventario-Lista-Doble\proyControlInv(ListaEnlazada)\proyControlInv\obj\Debug\proyControlInv.csproj.GenerateResource.Cache
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\ED\Control-Inventario-Lista-Doble-Circular\proyControlInv(ListaEnlazada)\proyControlInv\bin\Debug\proyControlInv.exe.config
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\ED\Control-Inventario-Lista-Doble-Circular\proyControlInv(ListaEnlazada)\proyControlInv\obj\Debug\proyControlInv.exe
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\ED\Control-Inventario-Lista-Doble-Circular\proyControlInv(ListaEnlazada)\proyControlInv\obj\Debug\proyControlInv.pdb
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\ED\Control-Inventario-Lista-Doble-Circular\proyControlInv(ListaEnlazada)\proyControlInv\bin\Debug\proyControlInv.exe
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\ED\Control-Inventario-Lista-Doble-Circular\proyControlInv(ListaEnlazada)\proyControlInv\bin\Debug\proyControlInv.pdb
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\ED\Control-Inventario-Lista-Doble-Circular\proyControlInv(ListaEnlazada)\proyControlInv\obj\Debug\proyControlInv.csprojResolveAssemblyReference.cache
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\ED\Control-Inventario-Lista-Doble-Circular\proyControlInv(ListaEnlazada)\proyControlInv\obj\Debug\proyControlInv.Form1.resources
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\ED\Control-Inventario-Lista-Doble-Circular\proyControlInv(ListaEnlazada)\proyControlInv\obj\Debug\proyControlInv.Properties.Resources.resources
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\ED\Control-Inventario-Lista-Doble-Circular\proyControlInv(ListaEnlazada)\proyControlInv\obj\Debug\proyControlInv.csproj.GenerateResource.Cache
+C:\Users\20127382\Desktop\Control-Inventario-Lista-Doble-Circular\proyControlInv(ListaEnlazada)\proyControlInv\bin\Debug\proyControlInv.exe.config
+C:\Users\20127382\Desktop\Control-Inventario-Lista-Doble-Circular\proyControlInv(ListaEnlazada)\proyControlInv\obj\Debug\proyControlInv.exe
+C:\Users\20127382\Desktop\Control-Inventario-Lista-Doble-Circular\proyControlInv(ListaEnlazada)\proyControlInv\obj\Debug\proyControlInv.pdb
+C:\Users\20127382\Desktop\Rutas\proyControlInv(ListaEnlazada)\proyControlInv\bin\Debug\proyControlInv.exe.config
+C:\Users\20127382\Desktop\Rutas\proyControlInv(ListaEnlazada)\proyControlInv\obj\Debug\proyControlInv.exe
+C:\Users\20127382\Desktop\Rutas\proyControlInv(ListaEnlazada)\proyControlInv\obj\Debug\proyControlInv.pdb
+C:\Users\20127382\Desktop\Rutas\proyControlInv(ListaEnlazada)\proyControlInv\obj\Debug\proyControlInv.csprojResolveAssemblyReference.cache
+C:\Users\20127382\Desktop\Rutas\proyControlInv(ListaEnlazada)\proyControlInv\obj\Debug\proyControlInv.Form1.resources
+C:\Users\20127382\Desktop\Rutas\proyControlInv(ListaEnlazada)\proyControlInv\obj\Debug\proyControlInv.Properties.Resources.resources
+C:\Users\20127382\Desktop\Rutas\proyControlInv(ListaEnlazada)\proyControlInv\obj\Debug\proyControlInv.csproj.GenerateResource.Cache
+C:\Users\20127382\Desktop\Rutas\proyControlInv(ListaEnlazada)\proyControlInv\bin\Debug\proyControlInv.exe
+C:\Users\20127382\Desktop\Rutas\proyControlInv(ListaEnlazada)\proyControlInv\bin\Debug\proyControlInv.pdb
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\Estructura de Datos\Rutas\Rutas\proyControlInv\bin\Debug\proyControlInv.exe.config
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\Estructura de Datos\Rutas\Rutas\proyControlInv\obj\Debug\proyControlInv.exe
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\Estructura de Datos\Rutas\Rutas\proyControlInv\obj\Debug\proyControlInv.pdb
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\Estructura de Datos\Rutas\Rutas\proyControlInv\bin\Debug\proyControlInv.exe
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\Estructura de Datos\Rutas\Rutas\proyControlInv\bin\Debug\proyControlInv.pdb
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\Estructura de Datos\Rutas\Rutas\proyControlInv\obj\Debug\proyControlInv.csprojResolveAssemblyReference.cache
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\Estructura de Datos\Rutas\Rutas\proyControlInv\obj\Debug\proyControlInv.Form1.resources
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\Estructura de Datos\Rutas\Rutas\proyControlInv\obj\Debug\proyControlInv.Properties.Resources.resources
+C:\Users\Christian Cagide\Desktop\Software\4 Semestre\Estructura de Datos\Rutas\Rutas\proyControlInv\obj\Debug\proyControlInv.csproj.GenerateResource.Cache
